@@ -1,0 +1,38 @@
+html  {
+	   font-size: 16px;
+      }
+
+p     {
+        font-family: 'Quattrocento', Georgia, "Times New Roman", serif;
+		font-weight: 400;
+		line-height: 1.4em;
+      }
+	  
+.intro::first-line {
+	            color: red;
+              }
+
+h1,h2 {
+	    font-family:  'Oswald', Verdana, Arial, sans-serif;
+      } 
+	  
+h1    {
+        font-weight: 700;
+        text-transform: uppercase;
+	  }
+	  
+h2    {
+	    font-weight: 500;
+      }
+	  
+address {
+         font-family: 'Quattrocento', Georgia, "Times New Roman", serif
+         font-size: .8em;
+        }
+address url:visited
+                 {
+					color; pink:
+				 }	  
+address url:hover{
+                background-color: red;
+                  }
